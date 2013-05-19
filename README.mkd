@@ -1,0 +1,9 @@
+Asteroids
+=========
+
+Tiny Asteroids clone written in C++11 with SFML 2.0. There is nothing
+remarkable here, it's just made for learning purposes. I've never coded a game
+before and it's also the first time I play aroud a bit with SFML, so there are
+some big mistakes and bad code design choices, but at least I got it working,
+and it's a start point.
+
